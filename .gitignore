@@ -1,0 +1,13 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ Platform Gradle Plugin
+.intellijPlatform/
+
+# IDE project files
+.idea/
+*.iml
+
+# macOS
+.DS_Store

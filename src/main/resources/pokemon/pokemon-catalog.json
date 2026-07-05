@@ -1,0 +1,6216 @@
+[
+ {
+  "type": "bulbasaur",
+  "name": "Bulbasaur",
+  "id": 1,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ivysaur",
+  "name": "Ivysaur",
+  "id": 2,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "venusaur",
+  "name": "Venusaur",
+  "id": 3,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "venusaur_female",
+  "name": "Venusaur (Female)",
+  "id": 3,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "charmander",
+  "name": "Charmander",
+  "id": 4,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "charmeleon",
+  "name": "Charmeleon",
+  "id": 5,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "charizard",
+  "name": "Charizard",
+  "id": 6,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "squirtle",
+  "name": "Squirtle",
+  "id": 7,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "wartortle",
+  "name": "Wartortle",
+  "id": 8,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "blastoise",
+  "name": "Blastoise",
+  "id": 9,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "caterpie",
+  "name": "Caterpie",
+  "id": 10,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "metapod",
+  "name": "Metapod",
+  "id": 11,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "butterfree",
+  "name": "Butterfree",
+  "id": 12,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "weedle",
+  "name": "Weedle",
+  "id": 13,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "kakuna",
+  "name": "Kakuna",
+  "id": 14,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "beedrill",
+  "name": "Beedrill",
+  "id": 15,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "pidgey",
+  "name": "Pidgey",
+  "id": 16,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "pidgeotto",
+  "name": "Pidgeotto",
+  "id": 17,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "pidgeot",
+  "name": "Pidgeot",
+  "id": 18,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "rattata",
+  "name": "Rattata",
+  "id": 19,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "raticate",
+  "name": "Raticate",
+  "id": 20,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "spearow",
+  "name": "Spearow",
+  "id": 21,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "fearow",
+  "name": "Fearow",
+  "id": 22,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ekans",
+  "name": "Ekans",
+  "id": 23,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arbok",
+  "name": "Arbok",
+  "id": 24,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "pikachu",
+  "name": "Pikachu",
+  "id": 25,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "pikachu_female",
+  "name": "Pikachu (Female)",
+  "id": 25,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "raichu",
+  "name": "Raichu",
+  "id": 26,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "sandshrew",
+  "name": "Sandshrew",
+  "id": 27,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "sandslash",
+  "name": "Sandslash",
+  "id": 28,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "nidoran_female",
+  "name": "Nidoran♀",
+  "id": 29,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "nidorina",
+  "name": "Nidorina",
+  "id": 30,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "nidoqueen",
+  "name": "Nidoqueen",
+  "id": 31,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "nidoran_male",
+  "name": "Nidoran♂",
+  "id": 32,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "nidorino",
+  "name": "Nidorino",
+  "id": 33,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "nidoking",
+  "name": "Nidoking",
+  "id": 34,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "clefairy",
+  "name": "Clefairy",
+  "id": 35,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "clefable",
+  "name": "Clefable",
+  "id": 36,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "vulpix",
+  "name": "Vulpix",
+  "id": 37,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ninetales",
+  "name": "Ninetales",
+  "id": 38,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "jigglypuff",
+  "name": "Jigglypuff",
+  "id": 39,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "wigglytuff",
+  "name": "Wigglytuff",
+  "id": 40,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "zubat",
+  "name": "Zubat",
+  "id": 41,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "golbat",
+  "name": "Golbat",
+  "id": 42,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "oddish",
+  "name": "Oddish",
+  "id": 43,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gloom",
+  "name": "Gloom",
+  "id": 44,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "vileplume",
+  "name": "Vileplume",
+  "id": 45,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "paras",
+  "name": "Paras",
+  "id": 46,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "parasect",
+  "name": "Parasect",
+  "id": 47,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "venonat",
+  "name": "Venonat",
+  "id": 48,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "venomoth",
+  "name": "Venomoth",
+  "id": 49,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "diglett",
+  "name": "Diglett",
+  "id": 50,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "dugtrio",
+  "name": "Dugtrio",
+  "id": 51,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "meowth",
+  "name": "Meowth",
+  "id": 52,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "persian",
+  "name": "Persian",
+  "id": 53,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "psyduck",
+  "name": "Psyduck",
+  "id": 54,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "golduck",
+  "name": "Golduck",
+  "id": 55,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mankey",
+  "name": "Mankey",
+  "id": 56,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "primeape",
+  "name": "Primeape",
+  "id": 57,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "growlithe",
+  "name": "Growlithe",
+  "id": 58,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arcanine",
+  "name": "Arcanine",
+  "id": 59,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "poliwag",
+  "name": "Poliwag",
+  "id": 60,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "poliwhirl",
+  "name": "Poliwhirl",
+  "id": 61,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "poliwrath",
+  "name": "Poliwrath",
+  "id": 62,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "abra",
+  "name": "Abra",
+  "id": 63,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "kadabra",
+  "name": "Kadabra",
+  "id": 64,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "alakazam",
+  "name": "Alakazam",
+  "id": 65,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "machop",
+  "name": "Machop",
+  "id": 66,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "machoke",
+  "name": "Machoke",
+  "id": 67,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "machamp",
+  "name": "Machamp",
+  "id": 68,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "bellsprout",
+  "name": "Bellsprout",
+  "id": 69,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "weepinbell",
+  "name": "Weepinbell",
+  "id": 70,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "victreebel",
+  "name": "Victreebel",
+  "id": 71,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "tentacool",
+  "name": "Tentacool",
+  "id": 72,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "tentacruel",
+  "name": "Tentacruel",
+  "id": 73,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "geodude",
+  "name": "Geodude",
+  "id": 74,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "graveler",
+  "name": "Graveler",
+  "id": 75,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "golem",
+  "name": "Golem",
+  "id": 76,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ponyta",
+  "name": "Ponyta",
+  "id": 77,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "rapidash",
+  "name": "Rapidash",
+  "id": 78,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "slowpoke",
+  "name": "Slowpoke",
+  "id": 79,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "slowbro",
+  "name": "Slowbro",
+  "id": 80,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "magnemite",
+  "name": "Magnemite",
+  "id": 81,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "magneton",
+  "name": "Magneton",
+  "id": 82,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "farfetchd",
+  "name": "Farfetch'd",
+  "id": 83,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "doduo",
+  "name": "Doduo",
+  "id": 84,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "dodrio",
+  "name": "Dodrio",
+  "id": 85,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "seel",
+  "name": "Seel",
+  "id": 86,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "dewgong",
+  "name": "Dewgong",
+  "id": 87,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "grimer",
+  "name": "Grimer",
+  "id": 88,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "muk",
+  "name": "Muk",
+  "id": 89,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "shellder",
+  "name": "Shellder",
+  "id": 90,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "cloyster",
+  "name": "Cloyster",
+  "id": 91,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gastly",
+  "name": "Gastly",
+  "id": 92,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "haunter",
+  "name": "Haunter",
+  "id": 93,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gengar",
+  "name": "Gengar",
+  "id": 94,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "onix",
+  "name": "Onix",
+  "id": 95,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "drowzee",
+  "name": "Drowzee",
+  "id": 96,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "hypno",
+  "name": "Hypno",
+  "id": 97,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "krabby",
+  "name": "Krabby",
+  "id": 98,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "kingler",
+  "name": "Kingler",
+  "id": 99,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "voltorb",
+  "name": "Voltorb",
+  "id": 100,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "electrode",
+  "name": "Electrode",
+  "id": 101,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "exeggcute",
+  "name": "Exeggcute",
+  "id": 102,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "exeggutor",
+  "name": "Exeggutor",
+  "id": 103,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "cubone",
+  "name": "Cubone",
+  "id": 104,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "marowak",
+  "name": "Marowak",
+  "id": 105,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "hitmonlee",
+  "name": "Hitmonlee",
+  "id": 106,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "hitmonchan",
+  "name": "Hitmonchan",
+  "id": 107,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "lickitung",
+  "name": "Lickitung",
+  "id": 108,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "koffing",
+  "name": "Koffing",
+  "id": 109,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "weezing",
+  "name": "Weezing",
+  "id": 110,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "rhyhorn",
+  "name": "Rhyhorn",
+  "id": 111,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "rhydon",
+  "name": "Rhydon",
+  "id": 112,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "chansey",
+  "name": "Chansey",
+  "id": 113,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "tangela",
+  "name": "Tangela",
+  "id": 114,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "kangaskhan",
+  "name": "Kangaskhan",
+  "id": 115,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "horsea",
+  "name": "Horsea",
+  "id": 116,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "seadra",
+  "name": "Seadra",
+  "id": 117,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "goldeen",
+  "name": "Goldeen",
+  "id": 118,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "seaking",
+  "name": "Seaking",
+  "id": 119,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "staryu",
+  "name": "Staryu",
+  "id": 120,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "starmie",
+  "name": "Starmie",
+  "id": 121,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mrmime",
+  "name": "Mr. Mime",
+  "id": 122,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "scyther",
+  "name": "Scyther",
+  "id": 123,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "jynx",
+  "name": "Jynx",
+  "id": 124,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "electabuzz",
+  "name": "Electabuzz",
+  "id": 125,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "magmar",
+  "name": "Magmar",
+  "id": 126,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "pinsir",
+  "name": "Pinsir",
+  "id": 127,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "tauros",
+  "name": "Tauros",
+  "id": 128,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "magikarp",
+  "name": "Magikarp",
+  "id": 129,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gyarados",
+  "name": "Gyarados",
+  "id": 130,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "lapras",
+  "name": "Lapras",
+  "id": 131,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ditto",
+  "name": "Ditto",
+  "id": 132,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "eevee",
+  "name": "Eevee",
+  "id": 133,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "vaporeon",
+  "name": "Vaporeon",
+  "id": 134,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "jolteon",
+  "name": "Jolteon",
+  "id": 135,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "flareon",
+  "name": "Flareon",
+  "id": 136,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "porygon",
+  "name": "Porygon",
+  "id": 137,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "omanyte",
+  "name": "Omanyte",
+  "id": 138,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "omastar",
+  "name": "Omastar",
+  "id": 139,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "kabuto",
+  "name": "Kabuto",
+  "id": 140,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "kabutops",
+  "name": "Kabutops",
+  "id": 141,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "aerodactyl",
+  "name": "Aerodactyl",
+  "id": 142,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "snorlax",
+  "name": "Snorlax",
+  "id": 143,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "articuno",
+  "name": "Articuno",
+  "id": 144,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "zapdos",
+  "name": "Zapdos",
+  "id": 145,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "moltres",
+  "name": "Moltres",
+  "id": 146,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "dratini",
+  "name": "Dratini",
+  "id": 147,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "dragonair",
+  "name": "Dragonair",
+  "id": 148,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "dragonite",
+  "name": "Dragonite",
+  "id": 149,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mewtwo",
+  "name": "Mewtwo",
+  "id": 150,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mew",
+  "name": "Mew",
+  "id": 151,
+  "generation": "gen1",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "chikorita",
+  "name": "Chikorita",
+  "id": 152,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "bayleef",
+  "name": "Bayleef",
+  "id": 153,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "meganium",
+  "name": "Meganium",
+  "id": 154,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "meganium_female",
+  "name": "Meganium (Female)",
+  "id": 154,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "cyndaquil",
+  "name": "Cyndaquil",
+  "id": 155,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "quilava",
+  "name": "Quilava",
+  "id": 156,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "typhlosion",
+  "name": "Typhlosion",
+  "id": 157,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "totodile",
+  "name": "Totodile",
+  "id": 158,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "croconaw",
+  "name": "Croconaw",
+  "id": 159,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "feraligatr",
+  "name": "Feraligatr",
+  "id": 160,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "sentret",
+  "name": "Sentret",
+  "id": 161,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "furret",
+  "name": "Furret",
+  "id": 162,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "hoothoot",
+  "name": "Hoothoot",
+  "id": 163,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "noctowl",
+  "name": "Noctowl",
+  "id": 164,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ledyba",
+  "name": "Ledyba",
+  "id": 165,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ledian",
+  "name": "Ledian",
+  "id": 166,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "spinarak",
+  "name": "Spinarak",
+  "id": 167,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ariados",
+  "name": "Ariados",
+  "id": 168,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "crobat",
+  "name": "Crobat",
+  "id": 169,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "chinchou",
+  "name": "Chinchou",
+  "id": 170,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "lanturn",
+  "name": "Lanturn",
+  "id": 171,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "pichu",
+  "name": "Pichu",
+  "id": 172,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "pichu_spiky_eared",
+  "name": "Pichu (Spiky-eared)",
+  "id": 172,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "cleffa",
+  "name": "Cleffa",
+  "id": 173,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "igglybuff",
+  "name": "Igglybuff",
+  "id": 174,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "togepi",
+  "name": "Togepi",
+  "id": 175,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "togetic",
+  "name": "Togetic",
+  "id": 176,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "natu",
+  "name": "Natu",
+  "id": 177,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "xatu",
+  "name": "Xatu",
+  "id": 178,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mareep",
+  "name": "Mareep",
+  "id": 179,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "flaaffy",
+  "name": "Flaaffy",
+  "id": 180,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ampharos",
+  "name": "Ampharos",
+  "id": 181,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "bellossom",
+  "name": "Bellossom",
+  "id": 182,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "marill",
+  "name": "Marill",
+  "id": 183,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "azumarill",
+  "name": "Azumarill",
+  "id": 184,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "sudowoodo",
+  "name": "Sudowoodo",
+  "id": 185,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "politoed",
+  "name": "Politoed",
+  "id": 186,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "hoppip",
+  "name": "Hoppip",
+  "id": 187,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "skiploom",
+  "name": "Skiploom",
+  "id": 188,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "jumpluff",
+  "name": "Jumpluff",
+  "id": 189,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "aipom",
+  "name": "Aipom",
+  "id": 190,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "sunkern",
+  "name": "Sunkern",
+  "id": 191,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "sunflora",
+  "name": "Sunflora",
+  "id": 192,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "yanma",
+  "name": "Yanma",
+  "id": 193,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "wooper",
+  "name": "Wooper",
+  "id": 194,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "quagsire",
+  "name": "Quagsire",
+  "id": 195,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "espeon",
+  "name": "Espeon",
+  "id": 196,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "umbreon",
+  "name": "Umbreon",
+  "id": 197,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "murkrow",
+  "name": "Murkrow",
+  "id": 198,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "slowking",
+  "name": "Slowking",
+  "id": 199,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "misdreavus",
+  "name": "Misdreavus",
+  "id": 200,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_a",
+  "name": "Unown A",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_b",
+  "name": "Unown B",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_c",
+  "name": "Unown C",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_d",
+  "name": "Unown D",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_e",
+  "name": "Unown E",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_f",
+  "name": "Unown F",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_g",
+  "name": "Unown G",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_h",
+  "name": "Unown H",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_i",
+  "name": "Unown I",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_j",
+  "name": "Unown J",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_k",
+  "name": "Unown K",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_l",
+  "name": "Unown L",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_m",
+  "name": "Unown M",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_n",
+  "name": "Unown N",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_o",
+  "name": "Unown O",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_p",
+  "name": "Unown P",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_q",
+  "name": "Unown Q",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_r",
+  "name": "Unown R",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_s",
+  "name": "Unown S",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_t",
+  "name": "Unown T",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_u",
+  "name": "Unown U",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_v",
+  "name": "Unown V",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_w",
+  "name": "Unown W",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_x",
+  "name": "Unown X",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_y",
+  "name": "Unown Y",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_z",
+  "name": "Unown Z",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_exclamation",
+  "name": "Unown !",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "unown_question",
+  "name": "Unown ?",
+  "id": 201,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "wobbuffet_male",
+  "name": "Wobbuffet (Male)",
+  "id": 202,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "wobbuffet_female",
+  "name": "Wobbuffet (Female)",
+  "id": 202,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "girafarig",
+  "name": "Girafarig",
+  "id": 203,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "pineco",
+  "name": "Pineco",
+  "id": 204,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "forretress",
+  "name": "Forretress",
+  "id": 205,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "dunsparce",
+  "name": "Dunsparce",
+  "id": 206,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gligar",
+  "name": "Gligar",
+  "id": 207,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "steelix",
+  "name": "Steelix",
+  "id": 208,
+  "generation": "gen2",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "steelix_female",
+  "name": "Steelix (Female)",
+  "id": 208,
+  "generation": "gen2",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "snubbull",
+  "name": "Snubbull",
+  "id": 209,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "granbull",
+  "name": "Granbull",
+  "id": 210,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "qwilfish",
+  "name": "Qwilfish",
+  "id": 211,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "scizor",
+  "name": "Scizor",
+  "id": 212,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "shuckle",
+  "name": "Shuckle",
+  "id": 213,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "heracross_male",
+  "name": "Heracross (Male)",
+  "id": 214,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "heracross_female",
+  "name": "Heracross (Female)",
+  "id": 214,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "sneasel",
+  "name": "Sneasel",
+  "id": 215,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "teddiursa",
+  "name": "Teddiursa",
+  "id": 216,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ursaring",
+  "name": "Ursaring",
+  "id": 217,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "slugma",
+  "name": "Slugma",
+  "id": 218,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "magcargo",
+  "name": "Magcargo",
+  "id": 219,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "swinub",
+  "name": "Swinub",
+  "id": 220,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "piloswine",
+  "name": "Piloswine",
+  "id": 221,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "corsola",
+  "name": "Corsola",
+  "id": 222,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "remoraid",
+  "name": "Remoraid",
+  "id": 223,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "octillery",
+  "name": "Octillery",
+  "id": 224,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "delibird",
+  "name": "Delibird",
+  "id": 225,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mantine",
+  "name": "Mantine",
+  "id": 226,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "skarmory",
+  "name": "Skarmory",
+  "id": 227,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "houndour",
+  "name": "Houndour",
+  "id": 228,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "houndoom",
+  "name": "Houndoom",
+  "id": 229,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "kingdra",
+  "name": "Kingdra",
+  "id": 230,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "phanpy",
+  "name": "Phanpy",
+  "id": 231,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "donphan",
+  "name": "Donphan",
+  "id": 232,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "porygon2",
+  "name": "Porygon2",
+  "id": 233,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "stantler",
+  "name": "Stantler",
+  "id": 234,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "smeargle",
+  "name": "Smeargle",
+  "id": 235,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "tyrogue",
+  "name": "Tyrogue",
+  "id": 236,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "hitmontop",
+  "name": "Hitmontop",
+  "id": 237,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "smoochum",
+  "name": "Smoochum",
+  "id": 238,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "elekid",
+  "name": "Elekid",
+  "id": 239,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "magby",
+  "name": "Magby",
+  "id": 240,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "miltank",
+  "name": "Miltank",
+  "id": 241,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "blissey",
+  "name": "Blissey",
+  "id": 242,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "raikou",
+  "name": "Raikou",
+  "id": 243,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "entei",
+  "name": "Entei",
+  "id": 244,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "suicune",
+  "name": "Suicune",
+  "id": 245,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "larvitar",
+  "name": "Larvitar",
+  "id": 246,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "pupitar",
+  "name": "Pupitar",
+  "id": 247,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "tyranitar",
+  "name": "Tyranitar",
+  "id": 248,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "lugia",
+  "name": "Lugia",
+  "id": 249,
+  "generation": "gen2",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "hooh",
+  "name": "Ho-Oh",
+  "id": 250,
+  "generation": "gen2",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "celebi",
+  "name": "Celebi",
+  "id": 251,
+  "generation": "gen2",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "treecko",
+  "name": "Treecko",
+  "id": 252,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "grovyle",
+  "name": "Grovyle",
+  "id": 253,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "sceptile",
+  "name": "Sceptile",
+  "id": 254,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "torchic",
+  "name": "Torchic",
+  "id": 255,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "combusken",
+  "name": "Combusken",
+  "id": 256,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "blaziken",
+  "name": "Blaziken",
+  "id": 257,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mudkip",
+  "name": "Mudkip",
+  "id": 258,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "marshtomp",
+  "name": "Marshtomp",
+  "id": 259,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "swampert",
+  "name": "Swampert",
+  "id": 260,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "poochyena",
+  "name": "Poochyena",
+  "id": 261,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mightyena",
+  "name": "Mightyena",
+  "id": 262,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "zigzagoon",
+  "name": "Zigzagoon",
+  "id": 263,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "linoone",
+  "name": "Linoone",
+  "id": 264,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "wurmple",
+  "name": "Wurmple",
+  "id": 265,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "silcoon",
+  "name": "Silcoon",
+  "id": 266,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "beautifly",
+  "name": "Beautifly",
+  "id": 267,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "cascoon",
+  "name": "Cascoon",
+  "id": 268,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "dustox",
+  "name": "Dustox",
+  "id": 269,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "lotad",
+  "name": "Lotad",
+  "id": 270,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "lombre",
+  "name": "Lombre",
+  "id": 271,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ludicolo",
+  "name": "Ludicolo",
+  "id": 272,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "seedot",
+  "name": "Seedot",
+  "id": 273,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "nuzleaf",
+  "name": "Nuzleaf",
+  "id": 274,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "shiftry",
+  "name": "Shiftry",
+  "id": 275,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "taillow",
+  "name": "Taillow",
+  "id": 276,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "swellow",
+  "name": "Swellow",
+  "id": 277,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "wingull",
+  "name": "Wingull",
+  "id": 278,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "pelipper",
+  "name": "Pelipper",
+  "id": 279,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ralts",
+  "name": "Ralts",
+  "id": 280,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "kirlia",
+  "name": "Kirlia",
+  "id": 281,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gardevoir",
+  "name": "Gardevoir",
+  "id": 282,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "surskit",
+  "name": "Surskit",
+  "id": 283,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "masquerain",
+  "name": "Masquerain",
+  "id": 284,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "shroomish",
+  "name": "Shroomish",
+  "id": 285,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "breloom",
+  "name": "Breloom",
+  "id": 286,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "slakoth",
+  "name": "Slakoth",
+  "id": 287,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "vigoroth",
+  "name": "Vigoroth",
+  "id": 288,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "slaking",
+  "name": "Slaking",
+  "id": 289,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "nincada",
+  "name": "Nincada",
+  "id": 290,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ninjask",
+  "name": "Ninjask",
+  "id": 291,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "shedinja",
+  "name": "Shedinja",
+  "id": 292,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "whismur",
+  "name": "Whismur",
+  "id": 293,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "loudred",
+  "name": "Loudred",
+  "id": 294,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "exploud",
+  "name": "Exploud",
+  "id": 295,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "makuhita",
+  "name": "Makuhita",
+  "id": 296,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "hariyama",
+  "name": "Hariyama",
+  "id": 297,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "azurill",
+  "name": "Azurill",
+  "id": 298,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "nosepass",
+  "name": "Nosepass",
+  "id": 299,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "skitty",
+  "name": "Skitty",
+  "id": 300,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "delcatty",
+  "name": "Delcatty",
+  "id": 301,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "sableye",
+  "name": "Sableye",
+  "id": 302,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mawile",
+  "name": "Mawile",
+  "id": 303,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "aron",
+  "name": "Aron",
+  "id": 304,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "lairon",
+  "name": "Lairon",
+  "id": 305,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "aggron",
+  "name": "Aggron",
+  "id": 306,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "meditite",
+  "name": "Meditite",
+  "id": 307,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "medicham",
+  "name": "Medicham",
+  "id": 308,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "electrike",
+  "name": "Electrike",
+  "id": 309,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "manectric",
+  "name": "Manectric",
+  "id": 310,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "plusle",
+  "name": "Plusle",
+  "id": 311,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "minun",
+  "name": "Minun",
+  "id": 312,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "volbeat",
+  "name": "Volbeat",
+  "id": 313,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "illumise",
+  "name": "Illumise",
+  "id": 314,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "roselia",
+  "name": "Roselia",
+  "id": 315,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gulpin",
+  "name": "Gulpin",
+  "id": 316,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "swalot",
+  "name": "Swalot",
+  "id": 317,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "carvanha",
+  "name": "Carvanha",
+  "id": 318,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "sharpedo",
+  "name": "Sharpedo",
+  "id": 319,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "wailmer",
+  "name": "Wailmer",
+  "id": 320,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "wailord",
+  "name": "Wailord",
+  "id": 321,
+  "generation": "gen3",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "numel",
+  "name": "Numel",
+  "id": 322,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "camerupt",
+  "name": "Camerupt",
+  "id": 323,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "torkoal",
+  "name": "Torkoal",
+  "id": 324,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "spoink",
+  "name": "Spoink",
+  "id": 325,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "grumpig",
+  "name": "Grumpig",
+  "id": 326,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "spinda",
+  "name": "Spinda",
+  "id": 327,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "trapinch",
+  "name": "Trapinch",
+  "id": 328,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "vibrava",
+  "name": "Vibrava",
+  "id": 329,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "flygon",
+  "name": "Flygon",
+  "id": 330,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "cacnea",
+  "name": "Cacnea",
+  "id": 331,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "cacturne",
+  "name": "Cacturne",
+  "id": 332,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "swablu",
+  "name": "Swablu",
+  "id": 333,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "altaria",
+  "name": "Altaria",
+  "id": 334,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "zangoose",
+  "name": "Zangoose",
+  "id": 335,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "seviper",
+  "name": "Seviper",
+  "id": 336,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "lunatone",
+  "name": "Lunatone",
+  "id": 337,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "solrock",
+  "name": "Solrock",
+  "id": 338,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "barboach",
+  "name": "Barboach",
+  "id": 339,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "whiscash",
+  "name": "Whiscash",
+  "id": 340,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "corphish",
+  "name": "Corphish",
+  "id": 341,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "crawdaunt",
+  "name": "Crawdaunt",
+  "id": 342,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "baltoy",
+  "name": "Baltoy",
+  "id": 343,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "claydol",
+  "name": "Claydol",
+  "id": 344,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "lileep",
+  "name": "Lileep",
+  "id": 345,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "cradily",
+  "name": "Cradily",
+  "id": 346,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "anorith",
+  "name": "Anorith",
+  "id": 347,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "armaldo",
+  "name": "Armaldo",
+  "id": 348,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "feebas",
+  "name": "Feebas",
+  "id": 349,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "milotic",
+  "name": "Milotic",
+  "id": 350,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "castform",
+  "name": "Castform",
+  "id": 351,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "kecleon",
+  "name": "Kecleon",
+  "id": 352,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "shuppet",
+  "name": "Shuppet",
+  "id": 353,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "banette",
+  "name": "Banette",
+  "id": 354,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "duskull",
+  "name": "Duskull",
+  "id": 355,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "dusclops",
+  "name": "Dusclops",
+  "id": 356,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "tropius",
+  "name": "Tropius",
+  "id": 357,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "chimecho",
+  "name": "Chimecho",
+  "id": 358,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "absol",
+  "name": "Absol",
+  "id": 359,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "wynaut",
+  "name": "Wynaut",
+  "id": 360,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "snorunt",
+  "name": "Snorunt",
+  "id": 361,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "glalie",
+  "name": "Glalie",
+  "id": 362,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "spheal",
+  "name": "Spheal",
+  "id": 363,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "sealeo",
+  "name": "Sealeo",
+  "id": 364,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "walrein",
+  "name": "Walrein",
+  "id": 365,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "clamperl",
+  "name": "Clamperl",
+  "id": 366,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "huntail",
+  "name": "Huntail",
+  "id": 367,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gorebyss",
+  "name": "Gorebyss",
+  "id": 368,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "relicanth",
+  "name": "Relicanth",
+  "id": 369,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "luvdisc",
+  "name": "Luvdisc",
+  "id": 370,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "bagon",
+  "name": "Bagon",
+  "id": 371,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "shelgon",
+  "name": "Shelgon",
+  "id": 372,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "salamence",
+  "name": "Salamence",
+  "id": 373,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "beldum",
+  "name": "Beldum",
+  "id": 374,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "metang",
+  "name": "Metang",
+  "id": 375,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "metagross",
+  "name": "Metagross",
+  "id": 376,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "regirock",
+  "name": "Regirock",
+  "id": 377,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "regice",
+  "name": "Regice",
+  "id": 378,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "registeel",
+  "name": "Registeel",
+  "id": 379,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "latias",
+  "name": "Latias",
+  "id": 380,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "latios",
+  "name": "Latios",
+  "id": 381,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "kyogre",
+  "name": "Kyogre",
+  "id": 382,
+  "generation": "gen3",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "groudon",
+  "name": "Groudon",
+  "id": 383,
+  "generation": "gen3",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "rayquaza",
+  "name": "Rayquaza",
+  "id": 384,
+  "generation": "gen3",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "jirachi",
+  "name": "Jirachi",
+  "id": 385,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "deoxys",
+  "name": "Deoxys",
+  "id": 386,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "deoxys_speed",
+  "name": "Deoxys (Speed)",
+  "id": 386,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "deoxys_attack",
+  "name": "Deoxys (Attack)",
+  "id": 386,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "deoxys_defense",
+  "name": "Deoxys (Defense)",
+  "id": 386,
+  "generation": "gen3",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "turtwig",
+  "name": "Turtwig",
+  "id": 387,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default"
+  ]
+ },
+ {
+  "type": "grotle",
+  "name": "Grotle",
+  "id": 388,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "torterra",
+  "name": "Torterra",
+  "id": 389,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "chimchar",
+  "name": "Chimchar",
+  "id": 390,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "monferno",
+  "name": "Monferno",
+  "id": 391,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "infernape",
+  "name": "Infernape",
+  "id": 392,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "piplup",
+  "name": "Piplup",
+  "id": 393,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "prinplup",
+  "name": "Prinplup",
+  "id": 394,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "empoleon",
+  "name": "Empoleon",
+  "id": 395,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "starly",
+  "name": "Starly",
+  "id": 396,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "staravia",
+  "name": "Staravia",
+  "id": 397,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "staraptor",
+  "name": "Staraptor",
+  "id": 398,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "bidoof",
+  "name": "Bidoof",
+  "id": 399,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "bibarel",
+  "name": "Bibarel",
+  "id": 400,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "kricketot",
+  "name": "Kricketot",
+  "id": 401,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "kricketune",
+  "name": "Kricketune",
+  "id": 402,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "shinx",
+  "name": "Shinx",
+  "id": 403,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "luxio",
+  "name": "Luxio",
+  "id": 404,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "luxray",
+  "name": "Luxray",
+  "id": 405,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "budew",
+  "name": "Budew",
+  "id": 406,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "roserade",
+  "name": "Roserade",
+  "id": 407,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "cranidos",
+  "name": "Cranidos",
+  "id": 408,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "rampardos",
+  "name": "Rampardos",
+  "id": 409,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "shieldon",
+  "name": "Shieldon",
+  "id": 410,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "bastiodon",
+  "name": "Bastiodon",
+  "id": 411,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "burmy_plant",
+  "name": "Burmy (Plant)",
+  "id": 412,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "burmy_sandy",
+  "name": "Burmy (Sandy)",
+  "id": 412,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "burmy_trash",
+  "name": "Burmy (Trash)",
+  "id": 412,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "wormadam_plant",
+  "name": "Wormadam (Plant)",
+  "id": 413,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "wormadam_sandy",
+  "name": "Wormadam (Sandy)",
+  "id": 413,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "wormadam_trash",
+  "name": "Wormadam (Trash)",
+  "id": 413,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mothim",
+  "name": "Mothim",
+  "id": 414,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "combee_male",
+  "name": "Combee (Male)",
+  "id": 415,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "combee_female",
+  "name": "Combee (Female)",
+  "id": 415,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "vespiquen",
+  "name": "Vespiquen",
+  "id": 416,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "pachirisu",
+  "name": "Pachirisu",
+  "id": 417,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "buizel",
+  "name": "Buizel",
+  "id": 418,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "floatzel",
+  "name": "Floatzel",
+  "id": 419,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "cherubi",
+  "name": "Cherubi",
+  "id": 420,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "cherrim",
+  "name": "Cherrim",
+  "id": 421,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "shellos_west",
+  "name": "Shellos (West)",
+  "id": 422,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "shellos_east",
+  "name": "Shellos (East)",
+  "id": 422,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gastrodon_west",
+  "name": "Gastrodon (West)",
+  "id": 423,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gastrodon_east",
+  "name": "Gastrodon (East)",
+  "id": 423,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "ambipom",
+  "name": "Ambipom",
+  "id": 424,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "drifloon",
+  "name": "Drifloon",
+  "id": 425,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "drifblim",
+  "name": "Drifblim",
+  "id": 426,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "buneary",
+  "name": "Buneary",
+  "id": 427,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "lopunny",
+  "name": "Lopunny",
+  "id": 428,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mismagius",
+  "name": "Mismagius",
+  "id": 429,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "honchkrow",
+  "name": "Honchkrow",
+  "id": 430,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "glameow",
+  "name": "Glameow",
+  "id": 431,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "purugly",
+  "name": "Purugly",
+  "id": 432,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "chingling",
+  "name": "Chingling",
+  "id": 433,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "stunky",
+  "name": "Stunky",
+  "id": 434,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "skuntank",
+  "name": "Skuntank",
+  "id": 435,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "bronzor",
+  "name": "Bronzor",
+  "id": 436,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "bronzong",
+  "name": "Bronzong",
+  "id": 437,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "bonsly",
+  "name": "Bonsly",
+  "id": 438,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mimeJr",
+  "name": "Mime Jr.",
+  "id": 439,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "happiny",
+  "name": "Happiny",
+  "id": 440,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "chatot",
+  "name": "Chatot",
+  "id": 441,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "spiritomb",
+  "name": "Spiritomb",
+  "id": 442,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gible",
+  "name": "Gible",
+  "id": 443,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gible_female",
+  "name": "Gible (Female)",
+  "id": 443,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gabite",
+  "name": "Gabite",
+  "id": 444,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gabite_female",
+  "name": "Gabite (Female)",
+  "id": 444,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "garchomp",
+  "name": "Garchomp",
+  "id": 445,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "garchomp_female",
+  "name": "Garchomp (Female)",
+  "id": 445,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "munchlax",
+  "name": "Munchlax",
+  "id": 446,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "riolu",
+  "name": "Riolu",
+  "id": 447,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "lucario",
+  "name": "Lucario",
+  "id": 448,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "hippopotas_male",
+  "name": "Hippopotas (Male)",
+  "id": 449,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "hippopotas_female",
+  "name": "Hippopotas (Female)",
+  "id": 449,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "hippowdon_male",
+  "name": "Hippowdon (Male)",
+  "id": 450,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "hippowdon_female",
+  "name": "Hippowdon (Female)",
+  "id": 450,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "skorupi",
+  "name": "Skorupi",
+  "id": 451,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "drapion",
+  "name": "Drapion",
+  "id": 452,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "croagunk",
+  "name": "Croagunk",
+  "id": 453,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "toxicroak",
+  "name": "Toxicroak",
+  "id": 454,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "carnivine",
+  "name": "Carnivine",
+  "id": 455,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "finneon",
+  "name": "Finneon",
+  "id": 456,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "lumineon",
+  "name": "Lumineon",
+  "id": 457,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mantyke",
+  "name": "Mantyke",
+  "id": 458,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "snover",
+  "name": "Snover",
+  "id": 459,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "abomasnow",
+  "name": "Abomasnow",
+  "id": 460,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "weavile",
+  "name": "Weavile",
+  "id": 461,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "magnezone",
+  "name": "Magnezone",
+  "id": 462,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "lickilicky",
+  "name": "Lickilicky",
+  "id": 463,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "rhyperior",
+  "name": "Rhyperior",
+  "id": 464,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "tangrowth",
+  "name": "Tangrowth",
+  "id": 465,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "electivire",
+  "name": "Electivire",
+  "id": 466,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "magmortar",
+  "name": "Magmortar",
+  "id": 467,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "togekiss",
+  "name": "Togekiss",
+  "id": 468,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "yanmega",
+  "name": "Yanmega",
+  "id": 469,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "leafeon",
+  "name": "Leafeon",
+  "id": 470,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "glaceon",
+  "name": "Glaceon",
+  "id": 471,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gliscor",
+  "name": "Gliscor",
+  "id": 472,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mamoswine",
+  "name": "Mamoswine",
+  "id": 473,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "porygonZ",
+  "name": "Porygon-Z",
+  "id": 474,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "gallade",
+  "name": "Gallade",
+  "id": 475,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "probopass",
+  "name": "Probopass",
+  "id": 476,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "dusknoir",
+  "name": "Dusknoir",
+  "id": 477,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "froslass",
+  "name": "Froslass",
+  "id": 478,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "rotom",
+  "name": "Rotom",
+  "id": 479,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "rotom_heat",
+  "name": "Rotom (Heat Form)",
+  "id": 479,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "rotom_wash",
+  "name": "Rotom (Wash Form)",
+  "id": 479,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "rotom_frost",
+  "name": "Rotom (Frost Form)",
+  "id": 479,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "rotom_fan",
+  "name": "Rotom (Fan Form)",
+  "id": 479,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "rotom_mow",
+  "name": "Rotom (Mow Form)",
+  "id": 479,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "uxie",
+  "name": "Uxie",
+  "id": 480,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "mesprit",
+  "name": "Mesprit",
+  "id": 481,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "azelf",
+  "name": "Azelf",
+  "id": 482,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "dialga",
+  "name": "Dialga",
+  "id": 483,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "palkia",
+  "name": "Palkia",
+  "id": 484,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "heatran",
+  "name": "Heatran",
+  "id": 485,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "regigigas",
+  "name": "Regigigas",
+  "id": 486,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "giratina",
+  "name": "Giratina",
+  "id": 487,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "giratina_origin",
+  "name": "Giratina (Origin Form)",
+  "id": 487,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "cresselia",
+  "name": "Cresselia",
+  "id": 488,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "phione",
+  "name": "Phione",
+  "id": 489,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "manaphy",
+  "name": "Manaphy",
+  "id": 490,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "darkrai",
+  "name": "Darkrai",
+  "id": 491,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "shaymin",
+  "name": "Shaymin",
+  "id": 492,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "shaymin_sky",
+  "name": "Shaymin (Sky Form)",
+  "id": 492,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus",
+  "name": "Arceus",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_bug",
+  "name": "Arceus (Bug)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 32,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_dark",
+  "name": "Arceus (Dark)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_dragon",
+  "name": "Arceus (Dragon)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_electric",
+  "name": "Arceus (Electric)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_fighting",
+  "name": "Arceus (Fighting)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_fire",
+  "name": "Arceus (Fire)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_flying",
+  "name": "Arceus (Flying)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_ghost",
+  "name": "Arceus (Ghost)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_grass",
+  "name": "Arceus (Grass)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_ground",
+  "name": "Arceus (Ground)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_ice",
+  "name": "Arceus (Ice)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_poison",
+  "name": "Arceus (Poison)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_psychic",
+  "name": "Arceus (Psychic)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_rock",
+  "name": "Arceus (Rock)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_steel",
+  "name": "Arceus (Steel)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ },
+ {
+  "type": "arceus_water",
+  "name": "Arceus (Water)",
+  "id": 493,
+  "generation": "gen4",
+  "originalSpriteSize": 64,
+  "possibleColors": [
+   "default",
+   "shiny"
+  ]
+ }
+]
