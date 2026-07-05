@@ -1,16 +1,12 @@
 <idea-plugin>
     <id>io.github.anto.pokemon-jetbrains</id>
     <name>Pokemon</name>
-    <vendor email="dedieu.anto@gmail.com">anto</vendor>
-    <description><![CDATA[
-        <h2>Pokémon pets for your JetBrains IDE 🐾⚡</h2>
-        <p>
-            Adorable walking pixel-art Pokémon that live in a tool window while you code.
-            This is a JetBrains port of the popular
-            <a href="https://github.com/jakobhoeg/vscode-pokemon">vscode-pokemon</a> extension
-            by Jakob Hoeg Mørk, and it reuses the original animation engine and sprites, so the
-            Pokémon behave exactly like they do in VS Code.
-        </p>
+    <vendor email="antoine.dedieu@outlook.fr">Antoine Dedieu</vendor>
+    <description><![CDATA[Adorable walking pixel art Pokemon pets that live in a tool window while you code.
+        This is a JetBrains port of the popular
+        <a href="https://github.com/jakobhoeg/vscode-pokemon">vscode-pokemon</a> extension
+        by Jakob Hoeg Mørk, and it reuses the original animation engine and sprites, so the
+        Pokémon behave exactly like they do in VS Code.
         <h3>Features</h3>
         <ul>
             <li>Spawn any of <b>565 Pokémon from generations 1&ndash;4</b>, searchable by name.</li>
