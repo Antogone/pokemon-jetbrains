@@ -1,5 +1,7 @@
 # Pokemon for JetBrains IDEs
 
+https://plugins.jetbrains.com/embeddable/install/32763
+
 A port of [jakobhoeg/vscode-pokemon](https://github.com/jakobhoeg/vscode-pokemon) to
 JetBrains IDEs — **PyCharm**, **DataSpell**, IntelliJ IDEA, WebStorm, and any other
 IntelliJ-Platform IDE (2024.2+).
