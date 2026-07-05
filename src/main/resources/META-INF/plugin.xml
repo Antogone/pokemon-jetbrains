@@ -1,0 +1,53 @@
+<idea-plugin>
+    <id>io.github.anto.pokemon-jetbrains</id>
+    <name>Pokemon</name>
+    <vendor email="dedieu.anto@gmail.com">anto</vendor>
+    <description><![CDATA[
+        <h2>Pokémon pets for your JetBrains IDE 🐾⚡</h2>
+        <p>
+            Adorable walking pixel-art Pokémon that live in a tool window while you code.
+            This is a JetBrains port of the popular
+            <a href="https://github.com/jakobhoeg/vscode-pokemon">vscode-pokemon</a> extension
+            by Jakob Hoeg Mørk, and it reuses the original animation engine and sprites, so the
+            Pokémon behave exactly like they do in VS Code.
+        </p>
+        <h3>Features</h3>
+        <ul>
+            <li>Spawn any of <b>565 Pokémon from generations 1&ndash;4</b>, searchable by name.</li>
+            <li><b>Random spawn</b> with authentic 1-in-8192 shiny odds &mdash; shiny variants included ✨</li>
+            <li>Pokémon walk around, take naps, and <b>befriend each other</b> ❤️</li>
+            <li>Four sprite sizes: nano, small, medium, large.</li>
+            <li>Themed backgrounds: <b>forest, castle, beach</b> (light &amp; dark variants follow your IDE theme).</li>
+            <li>Your Pokémon roster is <b>remembered across IDE restarts</b>.</li>
+        </ul>
+        <h3>Usage</h3>
+        <p>
+            Open the <b>Pokemon</b> tool window (right sidebar). Use the title-bar buttons to
+            spawn a chosen Pokémon (+), spawn a random one (⚡), or remove one (&minus;).
+            The gear menu (⚙) has Pokémon size, background theme, roll call, and remove-all.
+        </p>
+        <p>
+            Works in PyCharm, DataSpell, IntelliJ IDEA, WebStorm, and every other
+            IntelliJ-Platform IDE (2024.2+).
+        </p>
+        <p>
+            Credits: all Pokémon logic, sprites and assets come from the MIT-licensed
+            <a href="https://github.com/jakobhoeg/vscode-pokemon">jakobhoeg/vscode-pokemon</a>
+            project (also on the
+            <a href="https://marketplace.visualstudio.com/items?itemName=jakobhoeg.vscode-pokemon">VS Code Marketplace</a>).
+            Pokémon sprites are property of Nintendo/Game Freak; this is a non-commercial fan project.
+        </p>
+    ]]></description>
+    <depends>com.intellij.modules.platform</depends>
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow id="Pokemon"
+                    anchor="right"
+                    factoryClass="io.github.anto.pokemon.PokemonToolWindowFactory"
+                    icon="/icons/pokeball.svg"/>
+        <notificationGroup id="Pokemon" displayType="BALLOON"/>
+        <applicationConfigurable parentId="tools"
+                                 id="io.github.anto.pokemon"
+                                 displayName="Pokemon"
+                                 instance="io.github.anto.pokemon.PokemonConfigurable"/>
+    </extensions>
+</idea-plugin>
