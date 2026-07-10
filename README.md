@@ -1,7 +1,5 @@
 # Pokemon for JetBrains IDEs
 
-[Download from Marketplace](https://plugins.jetbrains.com/plugin/32763-pokemon)
-
 A port of [jakobhoeg/vscode-pokemon](https://github.com/jakobhoeg/vscode-pokemon) to
 JetBrains IDEs — **PyCharm**, **DataSpell**, IntelliJ IDEA, WebStorm, and any other
 IntelliJ-Platform IDE (2024.2+).
@@ -44,50 +42,6 @@ reuses that bundle **unmodified** inside a JCEF browser:
   are delivered with `window.postMessage`, exactly like VS Code does.
 - Sprites/backgrounds are bundled as `media.zip` and extracted to the IDE system
   directory on first use (JCEF loads the panel over `file://`).
-
-## Build from source
-
-Requires **JDK 21**. The Gradle wrapper is included.
-
-```sh
-./gradlew buildPlugin
-# -> build/distributions/pokemon-jetbrains-<version>.zip
-
-# Optional: run a sandboxed IDE with the plugin installed
-./gradlew runIde
-```
-
-The build auto-detects a locally installed DataSpell/PyCharm to compile against;
-without one it downloads IntelliJ Community 2024.2 (one-time, ~1 GB).
-
-### Regenerating the bundled webview assets
-
-`src/main/resources/pokemon/media.zip` (sprites + compiled `main-bundle.js`) and
-`pokemon-catalog.json` are generated from the upstream repo (needs node/npm):
-
-```sh
-git clone https://github.com/jakobhoeg/vscode-pokemon
-cd vscode-pokemon
-npm install
-
-# Build only the webview bundle (first entry of the upstream webpack config):
-cat > webpack.panel-only.js <<'EOF'
-const cfgs = require('./webpack.config.js');
-const c = cfgs[0];
-c.mode = 'production';
-c.devtool = false;
-module.exports = c;
-EOF
-npx webpack --config webpack.panel-only.js
-
-# Package the assets for the plugin:
-cd media && zip -qr ../../pokemon-jetbrains/src/main/resources/pokemon/media.zip . && cd ../..
-```
-
-If the sprite/data set changed, bump `MEDIA_VERSION` in `PokemonMedia.kt` so the
-new assets are re-extracted, and regenerate `pokemon-catalog.json` from
-`src/common/pokemon-data.ts` (it is a plain JSON projection of that file:
-type, name, id, generation, originalSpriteSize, possibleColors).
 
 ## Credits
 
